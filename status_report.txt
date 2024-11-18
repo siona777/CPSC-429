@@ -1,0 +1,9 @@
+https://www.google.com - Status: 200 - Response Time: 0.111442s
+https://www.facebook.com - Status: 200 - Response Time: 0.163310s
+https://www.wikipedia.org - Status: 200 - Response Time: 0.101364s
+https://www.youtube.com - Status: 200 - Response Time: 0.177326s
+https://www.amazon.com - Status: 503 - Response Time: 0.080936s
+https://www.twitter.com - Status: 301 - Response Time: 0.157610s
+https://www.microsoft.com - Status: 200 - Response Time: 0.137018s
+https://www.apple.com - Status: 200 - Response Time: 0.158380s
+https://www.instagram.com - Status: 200 - Response Time: 0.480919s
