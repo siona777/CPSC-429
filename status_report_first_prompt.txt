@@ -1,0 +1,10 @@
+https://www.google.com is Online
+https://www.facebook.com is Online
+https://www.wikipedia.org is Online
+https://www.youtube.com is Online
+https://www.amazon.com is Offline
+https://www.twitter.com is Online
+https://www.microsoft.com is Online
+https://www.apple.com is Online
+https://www.instagram.com is Online
+https://www.linkedin.com is Online

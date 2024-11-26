@@ -1,0 +1,10 @@
+https://www.google.com is Online - Response Time: 0.11s
+https://www.facebook.com is Online - Response Time: 0.17s
+https://www.wikipedia.org is Online - Response Time: 0.08s
+https://www.youtube.com is Online - Response Time: 0.21s
+https://www.amazon.com is Offline - Response Time: 0.07s
+https://www.twitter.com is Online - Response Time: 0.44s
+https://www.microsoft.com is Online - Response Time: 0.09s
+https://www.apple.com is Online - Response Time: 0.09s
+https://www.instagram.com is Online - Response Time: 0.31s
+https://www.linkedin.com is Online - Response Time: 0.24s
